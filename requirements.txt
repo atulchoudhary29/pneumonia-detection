@@ -1,0 +1,11 @@
+tkinter
+Pillow
+numpy
+scikit-image
+matplotlib
+pandas
+seaborn
+opencv-python
+pydicom
+tensorflow
+keras
